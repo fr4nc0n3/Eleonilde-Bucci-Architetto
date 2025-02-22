@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+}
+
+.middle-row {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    flex-direction: column;
+}
+
+.middle-row-title {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Cursive", cursive;
+}
+
+.middle-row-logo {
+    margin-top: 1rem;
+}
